@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on ༺爱玩༻</title>
+        <link>https://aiwan10124.github.io/hugoweb/page/</link>
+        <description>Recent content in Pages on ༺爱玩༻</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>༺爱玩༻</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://aiwan10124.github.io/hugoweb/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>档案</title>
+        <link>https://aiwan10124.github.io/hugoweb/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://aiwan10124.github.io/hugoweb/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://aiwan10124.github.io/hugoweb/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://aiwan10124.github.io/hugoweb/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;没事做的个人网站&lt;/p&gt;
+&lt;p&gt;bilibili:爱玩10124&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>链接</title>
+        <link>https://aiwan10124.github.io/hugoweb/%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://aiwan10124.github.io/hugoweb/%E9%93%BE%E6%8E%A5/</guid>
+        <description>&lt;p&gt;放一些链接的地方&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://aiwan10124.github.io/hugoweb/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://aiwan10124.github.io/hugoweb/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
