@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on ༺爱玩༻</title>
+        <link>https://aiwan10124.github.io/hugoweb/categories/</link>
+        <description>Recent content in Categories on ༺爱玩༻</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>༺爱玩༻</copyright>
+        <lastBuildDate>Sat, 16 Nov 2024 17:57:22 +0800</lastBuildDate><atom:link href="https://aiwan10124.github.io/hugoweb/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>主题</title>
+        <link>https://aiwan10124.github.io/hugoweb/categories/%E4%B8%BB%E9%A2%98/</link>
+        <pubDate>Sat, 16 Nov 2024 17:57:22 +0800</pubDate>
+        
+        <guid>https://aiwan10124.github.io/hugoweb/categories/%E4%B8%BB%E9%A2%98/</guid>
+        <description>&lt;img src="https://aiwan10124.github.io/hugoweb/categories/%E4%B8%BB%E9%A2%98/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 主题" /&gt;</description>
+        </item>
+        <item>
+        <title>生活</title>
+        <link>https://aiwan10124.github.io/hugoweb/categories/%E7%94%9F%E6%B4%BB/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://aiwan10124.github.io/hugoweb/categories/%E7%94%9F%E6%B4%BB/</guid>
+        <description>&lt;img src="https://aiwan10124.github.io/hugoweb/categories/%E7%94%9F%E6%B4%BB/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 生活" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
